@@ -7,6 +7,6 @@ Creating A Password Generator With Python / Python İle Şifre Üreticisi Oluşt
   <li> Özel Karakterler
   <li> Rakamlar
   <li> Büyük Harfler
-  <li> Küçük Harfler  
-    
+  <li> Küçük Harfler
 
+[Google Play🔗](https://play.google.com/store/apps/details?id=com.topuz.uygulamalar.password_gEnErat0r)  
